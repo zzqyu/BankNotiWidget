@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Bank Notification Widget</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="feature_header">기능</string>
+    <string name="widget_header">위젯</string>
+    <string name="info_header">정보</string>
+
+    <!-- Feature Preferences -->
+    <string name="feature_en_title">기능 활성화</string>
+    <string name="feature_en_summary_on">기능 활성화 됨</string>
+    <string name="feature_en_summary_off">스위치를 눌러 기능을 활성화 하세요.</string>
+    <string name="widget_lock_title">잠금 설정</string>
+    <string name="widget_lock_summary_on">위젯과 앱에 잠금 기능이 활성되었습니다.</string>
+    <string name="widget_lock_summary_off">위젯과 앱에 잠금 기능이 비활성화되었습니다.</string>
+    <string name="bank_list_title">은행 앱 목록</string>
+    <string name="account_title">계좌 목록</string>
+
+    <!-- widget Preferences -->
+    <string name="bg_color_title">배경 색상</string>
+    <string name="font_color_title">글자 색상</string>
+    <string name="font_size_title">글자 크기</string>
+
+    <!-- info Preferences -->
+    <string name="about_title">About</string>
+    <string name="version_title">Version</string>
+
+</resources>
